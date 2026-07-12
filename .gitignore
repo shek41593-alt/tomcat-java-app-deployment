@@ -1,0 +1,31 @@
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup files
+*.bak
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Environment files
+.env
+
+# SSH Keys
+*.pem
+id_rsa
+id_rsa.pub
+
+# Python cache
+__pycache__/
+*.pyc
